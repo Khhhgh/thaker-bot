@@ -1,0 +1,26 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+    ],
+    "content-hash": "dummyhash1234567890",
+    "packages": [
+        {
+            "name": "php",
+            "version": "8.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/php/php-src.git",
+                "reference": "8.1.0"
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": true,
+    "platform": {
+        "php": "8.1.0"
+    }
+}
