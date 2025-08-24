@@ -1,0 +1,8 @@
+{
+  "name": "example/heroku-php-bot",
+  "description": "Simple PHP bot for Heroku",
+  "require": {
+    "php": "^8.1",
+    "ext-curl": "*"
+  }
+}
